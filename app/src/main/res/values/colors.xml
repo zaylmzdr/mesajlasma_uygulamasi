@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="my_primary">#00A5FF</color>
+    <color name="my_secondary">#7BBDE1</color>
+    <color name="yourProgressColor">#7BBDE1</color>
+    <color name="light_gray">#D3D3D3</color>
+
+
+    <color name="off_white">#FAFAFA</color>
+
+
+    <color name="chat_sender">#00A5FF</color>
+    <color name="chat_receiver">#B1DAF1</color>
+
+
+
+
+
+
+</resources>
